@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lakpa Sherpa</title>
-    <link>https://demo.uicard.io/hugo-uilite-free/</link>
+    <link>https://sherpalakpa18.github.io/Lakpa_Portfolio/</link>
     <description>Recent content on Lakpa Sherpa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://demo.uicard.io/hugo-uilite-free/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sherpalakpa18.github.io/Lakpa_Portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
